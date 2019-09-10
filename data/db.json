@@ -1,0 +1,40 @@
+{
+  "cidades": [
+    {
+      "nome": "São Paulo",
+      "id": 2
+    },
+    {
+      "nome": "Rio de Janeiro",
+      "id": 3
+    },
+    {
+      "nome": "Salvador",
+      "id": 5
+    },
+    {
+      "nome": "Fortaleza",
+      "id": 6
+    },
+    {
+      "nome": "Palmas",
+      "id": 7
+    },
+    {
+      "nome": "Maceió",
+      "id": 8
+    },
+    {
+      "nome": "Manaus",
+      "id": 9
+    },
+    {
+      "nome": "Sergipe",
+      "id": 10
+    },
+    {
+      "nome": "Rio Grande do Sul",
+      "id": 11
+    }
+  ]
+}
