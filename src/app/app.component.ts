@@ -8,7 +8,11 @@ import { CidadeService } from './cidade.service';
 })
 
 export class AppComponent implements OnInit {
-  
+  //Reference: https://www.npmjs.com/package/json-server
+  //Install npm install -g json-server
+  //Start Json Server
+  //json-server --watch data/db.json
+
   cidades = [];
 
   constructor(private cidadeService: CidadeService){ }
